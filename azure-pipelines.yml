@@ -29,3 +29,4 @@ stages:
           $(tag)
           
     - task: PublishBuildArtifacts@1
+      displayName: final testing
